@@ -1,0 +1,43 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Merriweather', serif;
+}
+
+.contenido {
+ margin: 1.5%;
+}
+
+h1, h2, h3, h4 {
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+}
+img {
+    width: 20%;
+    border: solid 2px black;
+    border-radius: 15px;
+    box-shadow: 0 0 10px black;
+}
+
+h2 {
+    color: brown;
+}
+
+ul {
+    box-sizing: border-box;
+    width: 20%;
+    border: solid 1px brown;
+    box-shadow: 0 0 10px black;
+    border-radius: 15px;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: blue;
+}
